@@ -60,7 +60,7 @@
 
 ## 二.CareSight臨護視界系統 - 使用案例說明 (Use Case Specifications)
 
-![](./docs/images/566465818_4226980714295518_5278625638244510755_n-1.jpg)
+![](功能分解圖.png)
 > CareSight臨護視界系統功能架構樹狀圖
 
 本文件記錄「CareSight臨護視界系統」（以下簡稱CareSight系統）的核心使用案例，說明系統及CareSight應用於護理現場的實際操作模式。  
